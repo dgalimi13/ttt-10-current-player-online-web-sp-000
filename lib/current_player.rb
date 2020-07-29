@@ -10,6 +10,5 @@ end
 
 def current_player(board)
   turn_count(board)
-end
-end
-end
+  if counter % 2 == 0
+    return 
